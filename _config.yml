@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Wenlong Meng's Page"
+title                    : "Wenlong Meng (孟文龙)"
 title_separator          : "-"
 name                     : &name "Wenlong Meng"
 description              : &description "personal description"
@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/photo.JPG"
+  avatar           : "photo.JPG"
   name             : *name
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Charlottesville, VA, USA"
   employer         : # "Red Brick University"
   uri              : # URL
