@@ -53,7 +53,7 @@ Awards
 ------
 
 - NeurIPS 2024 LLM Privacy Challenge, Red-Team First Place
-- NDSS 2024 Disguished Paper
+- NDSS 2024 Distinguished Paper
 
 
 Volunteer
