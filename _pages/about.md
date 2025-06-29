@@ -24,12 +24,12 @@ Publications
 
 ### <span style="color:#52ADC8">R.R.: Unveiling LLM Training Privacy through Recollection and Ranking</span>
 **Wenlong Meng**, Zhenyuan Guo, Lenan Wu, Chen Gong, Wenyan Liu, Weixian Li, Chengkun Wei, Wenzhi Chen;
-**ACL 2025 (Funding)**
+**ACL 2025 (Finding)**
 [[PDF](https://arxiv.org/pdf/2502.12658)] [[Code](https://github.com/meng-wenlong/RR)]
 
 ### <span style="color:#52ADC8">Be Cautious When Merging Unfamiliar LLMs: A Phishing Model Capable of Stealing Privacy</span>
 Zhenyuan Guo, Yi Shi, **Wenlong Meng**, Chen Gong, Chengkun Wei, Wenzhi Chen;
-**ACL 2025 (Funding)**
+**ACL 2025 (Finding)**
 [[PDF](https://arxiv.org/pdf/2502.11533)] [[Code](https://github.com/Guozhenyuan/PhiMM)]
 
 ### <span style="color:#52ADC8">LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors</span>
