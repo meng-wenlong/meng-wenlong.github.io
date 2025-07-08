@@ -17,6 +17,11 @@ LLM Privacy and Security
 Publications
 ------
 
+### <span style="color:#52ADC8">Paladin: Defending LLM-enabled Phishing Emails with a New Trigger-Tag Paradigm</span>
+Yan Pang, **Wenlong Meng**, Xiaojing Liao, Tianhao Wang;
+**NDSS 2026**
+[PDF] [Code]
+
 ### <span style="color:#52ADC8">GradEscape: A Gradient-Based Evader Against AI-Generated Text Detectors</span>
 **Wenlong Meng**, Shuguo Fan, Chengkun Wei, Min Chen, Yuwei Li, Yuanchao Zhang, Zhikun Zhang, Wenzhi Chen;
 **USENIX Security 2025**
@@ -62,4 +67,4 @@ Volunteer
 - IEEE T-IFS 2024 Reviewer
 
 
-Last updated: June 27, 2025 
+<br>Last updated: July 8, 2025 
