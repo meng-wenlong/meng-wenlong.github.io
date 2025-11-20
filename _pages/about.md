@@ -19,12 +19,12 @@ Publications
 ### <span style="color:#52ADC8">Enhancing Meme Emotion Understanding with Multi-Level Modality Enhancement and Dual-Stage Modal Fusion</span>
 Yi Shi, **Wenlong Meng**, Zhenyuan Guo, Chengkun Wei, Wenzhi Chen;
 **AAAI 2026**
-[[PDF](https://arxiv.org/pdf/2511.11126) [Code](https://github.com/singing-cat/MemoDetector)]
+[[PDF](https://arxiv.org/pdf/2511.11126)] [[Code](https://github.com/singing-cat/MemoDetector)]
 
 ### <span style="color:#52ADC8">Paladin: Defending LLM-enabled Phishing Emails with a New Trigger-Tag Paradigm</span>
 Yan Pang, **Wenlong Meng**, Xiaojing Liao, Tianhao Wang;
 **NDSS 2026**
-[[PDF](https://arxiv.org/pdf/2509.07287) [Code](https://zenodo.org/records/15897613)]
+[[PDF](https://arxiv.org/pdf/2509.07287)] [[Code](https://zenodo.org/records/15897613)]
 
 ### <span style="color:#52ADC8">GradEscape: A Gradient-Based Evader Against AI-Generated Text Detectors</span>
 **Wenlong Meng**, Shuguo Fan, Chengkun Wei, Min Chen, Yuwei Li, Yuanchao Zhang, Zhikun Zhang, Wenzhi Chen;
