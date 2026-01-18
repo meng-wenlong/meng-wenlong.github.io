@@ -10,7 +10,7 @@ redirect_from:
 I am a last-year Ph.D. student at Zhejiang University, supervised by [Prof. Wenzhi Chen](https://person.zju.edu.cn/chenwenzhi) and [Prof. Chengkun Wei](https://chengkunwei.github.io/en). I am currently a Visiting Graduate Researcher (VGR) at the University of Virginia, advised by [Prof. Tianhao Wang](https://tianhao.wang/). I got my Bachelor's degree from Huazhong University of Science and Technology. I have long in-depth research experience in LLM security and privacy and is the second one in Mainland China who won NDSS Distinguished Paper Award (the first in the field of LLM security).
 
 
-I am looking to pursue a career in industry and am actively seeking job opportunities. Please feel free to contact me if you have any relevant positions or would like to connect!
+I am looking to pursue **a career in industry** and am actively seeking job opportunities. Please feel free to contact me if you have any relevant positions or would like to connect!
 
 Research Interests
 ------
