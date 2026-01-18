@@ -7,15 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-I am a last-year Ph.D. student at Zhejiang University, supervised by [Prof. Wenzhi Chen](https://person.zju.edu.cn/chenwenzhi). I am currently a Visiting Graduate Researcher (VGR) at the University of Virginia, advised by [Prof. Tianhao Wang](https://tianhao.wang/). I got my Bachelor's degree from Huazhong University of Science and Technology.
+I am a last-year Ph.D. student at Zhejiang University, supervised by [Prof. Wenzhi Chen](https://person.zju.edu.cn/chenwenzhi) and [Prof. Chengkun Wei](https://chengkunwei.github.io/en). I am currently a Visiting Graduate Researcher (VGR) at the University of Virginia, advised by [Prof. Tianhao Wang](https://tianhao.wang/). I got my Bachelor's degree from Huazhong University of Science and Technology. I have long in-depth research experience in LLM security and privacy and is the second one in Mainland China who won NDSS Distinguished Paper Award (the first in the field of LLM security).
+
+
+I am looking to pursue a career in industry and am actively seeking job opportunities. Please feel free to contact me if you have any relevant positions or would like to connect!
 
 Research Interests
 ------
 
 LLM Privacy and Security
 
+News
+------
+
+Our paper *Dialogue Injection Attack: Jailbreaking LLMs through Context Manipulation* has been accepted by IEEE Transactions on Information Forensics and Security!
+
+
 Publications
 ------
+
+### <span style="color:#52ADC8">Dialogue Injection Attack: Jailbreaking LLMs through Context Manipulation</span>
+**Wenlong Meng**, Fan Zhang, Wendao Yao, Zhenyuan Guo, Yuwei Li, Chengkun Wei, Wenzhi Chen;
+**T-IFS 2026**
+[[PDF](https://arxiv.org/pdf/2503.08195v1)] [[Code](https://github.com/meng-wenlong/DIA)]
+
 ### <span style="color:#52ADC8">Enhancing Meme Emotion Understanding with Multi-Level Modality Enhancement and Dual-Stage Modal Fusion</span>
 Yi Shi, **Wenlong Meng**, Zhenyuan Guo, Chengkun Wei, Wenzhi Chen;
 **AAAI 2026**
@@ -51,12 +66,8 @@ Chengkun Wei$$^*$$, Minghu Zhao$$^*$$, Zhikun Zhang, Min Chen, **Wenling Meng**,
 **ACM CCS 2023**
 [[PDF](https://dl.acm.org/doi/pdf/10.1145/3576915.3616593)] [[Code](https://github.com/DmsKinson/DPMLBench)]
 
-Pre-Print
-------
 
-### <span style="color:#52ADC8">Dialogue Injection Attack: Jailbreaking LLMs through Context Manipulation</span>
-Wenlong Meng, Fan Zhang, Wendao Yao, Zhenyuan Guo, Yuwei Li, Chengkun Wei, Wenzhi Chen;
-[[PDF](https://arxiv.org/pdf/2503.08195v1)] [[Code](https://github.com/meng-wenlong/DIA)]
+
 
 Awards
 ------
@@ -71,4 +82,4 @@ Volunteer
 - IEEE T-IFS 2024 Reviewer
 
 
-<br>Last updated: Nov 20, 2025 
+<br>Last updated: Jan 18, 2026
