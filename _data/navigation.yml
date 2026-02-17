@@ -23,8 +23,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: https://meng-wenlong.github.io/files/Elegant_LaTeX_Résumé.pdf
+  # - title: "CV"
+  #   url: https://meng-wenlong.github.io/files/Elegant_LaTeX_Résumé.pdf
     
   # - title: "CV"
   #   url: /cv-json/
